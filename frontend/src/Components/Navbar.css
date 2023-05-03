@@ -1,0 +1,19 @@
+.imageUser img {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  align-items: center;
+  background: rgb(41, 44, 46);
+  margin-bottom: 25px;
+}
+.navbar .logo h2 {
+  font-size: 22px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  cursor: pointer;
+}
